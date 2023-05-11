@@ -1,7 +1,6 @@
 # algorithm
 
 
-<h1>Programmers Algorithm</h1>
+<h2>Programmers Algorithm</h2>
 
-<div>C++ 공부하기</div>
-<div>알고리즘 풀기</div>
+확실히 새로운 언어해서 어렵긴 한데 재밌다....^>^
